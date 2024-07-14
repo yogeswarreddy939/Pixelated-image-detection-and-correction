@@ -5,5 +5,5 @@ Pixelated images occur when an image is compressed or resized too much, resultin
 The above code checks if the mean difference  exceeds the threshold, if it is more than threshold then it is a pixelated image and it gets corrected.If less than threshold then it is detected as a non pixelated image
 
 
-****ilateral filter is applied to the input image. This filter smooths the image while preserving edges, using parameters like:d,sigmaColor,
+Bilateral filter is applied to the input image. This filter smooths the image while preserving edges, using parameters like:d,sigmaColor,
 sigmaSpace
