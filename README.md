@@ -16,7 +16,12 @@ Compression Artifacts:
 Pixelation is often a byproduct of image compression algorithms, especially when high compression ratios are used.
 
 
-The above code checks if the mean difference  exceeds the threshold, if it is more than threshold then it is a pixelated image and it gets corrected.If less than threshold then it is detected as a non pixelated image
+The above code checks if the mean difference  exceeds the threshold, if it is more than threshold then it is a pixelated image and it gets corrected.If less than threshold then it is detected as a non pixelated image.
+
+NOTE:
+There isn't a universally fixed threshold value for detecting pixelation in images because the optimal threshold can vary based on factors like image resolution, content, and quality. However, you can determine a specific threshold value for your use case through empirical testing and analysis.
+
+
 
 
 Bilateral filter is applied to the input image. This filter smooths the image while preserving edges, using parameters like:d,sigmaColor,
