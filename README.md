@@ -33,6 +33,10 @@ sigmaSpace
 
 Here are the drive links for datasets used in the above code:
 
+original images
+
 https://drive.google.com/drive/folders/1_mdvmEBjBulqE323azVAyWOrI7MF_BZ9?usp=sharing
+
+pixelated images
 
 https://drive.google.com/drive/folders/1Ggavx935Ck4h7Xjy2oYva7ZipZ95Be0q?usp=sharing
