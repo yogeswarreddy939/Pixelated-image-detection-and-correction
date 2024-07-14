@@ -7,3 +7,6 @@ The above code checks if the mean difference  exceeds the threshold, if it is mo
 
 Bilateral filter is applied to the input image. This filter smooths the image while preserving edges, using parameters like:d,sigmaColor,
 sigmaSpace
+
+
+![butterfly](https://github.com/user-attachments/assets/ee587e2c-2835-4a6a-95b0-cb44a2b4b692)
